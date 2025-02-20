@@ -39,3 +39,5 @@ getdata1().then(()=>{
 
   
 }).then();
+
+console.log("this is the exmaple of merge ");
